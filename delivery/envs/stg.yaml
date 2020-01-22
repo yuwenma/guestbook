@@ -1,0 +1,4 @@
+cluster_name: asm-free-trial
+project: yuwenma-gke-playground
+compute:  # choose "region" or "zone"
+   zone: us-central1-a
